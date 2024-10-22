@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  It is easy to run this one. Just install the packages in the requirements and run it with the command <br/> streamlit run <your_main_file_name>.py
+  It is easy to run this one. Just install the packages in the requirements and run it with the command <br/> streamlit run &lt your_main_file_name &gt.py
 </p>
 <p>
   In this case, the main one is home.py. There are different data in the data folder, which are also saved in the database. You can modify the code to make it work with the other data as well.
